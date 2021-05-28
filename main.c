@@ -1,4 +1,5 @@
 #include "hashMap.h"
+#include "hashMap.c"
 #include <assert.h>
 #include <time.h>
 #include <stdio.h>
